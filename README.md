@@ -9,3 +9,5 @@
 - touch (create a new file)
 - nano (edit a file)
 - cat (fie discription)
+## clone the repository
+- git clone repolink
